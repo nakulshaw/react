@@ -28,6 +28,8 @@ function InputBox({
                     disabled={amountDisable}
                     className="outline-none w-full bg-transparent py-1.5"
                     type="number"
+                    step="any"
+                    min={0}
                     placeholder="Amount"
                 />
             </div>
