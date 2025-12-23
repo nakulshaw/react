@@ -26,7 +26,7 @@ function App() {
       <div className='flex'>
         <div
         className='w-100 h-screen bg-cover bg-norepeat absolute left-0'
-        style={{backgroundImage:"url('https://images.pexels.com/photos/5946623/pexels-photo-5946623.jpeg')"}}
+        style={{backgroundImage:"url('https://images.pexels.com/photos/157520/pexels-photo-157520.jpeg')"}}
         ></div>
         <div
             className="w-225 h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat absolute right-0"
